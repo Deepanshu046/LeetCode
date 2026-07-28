@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu046/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Deepanshu046/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Deepanshu046/LeetCode/tree/master/0263-ugly-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deepanshu046/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/Deepanshu046/LeetCode/tree/master/1598-crawler-log-folder) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deepanshu046/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
