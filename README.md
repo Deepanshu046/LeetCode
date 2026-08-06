@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepanshu046/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu046/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Deepanshu046/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Deepanshu046/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepanshu046/LeetCode/tree/master/0283-move-zeroes) |
 | [1598-crawler-log-folder](https://github.com/Deepanshu046/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Deepanshu046/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Deepanshu046/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deepanshu046/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
