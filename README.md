@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu046/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu046/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu046/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Deepanshu046/LeetCode/tree/master/0704-binary-search) |
 | [1598-crawler-log-folder](https://github.com/Deepanshu046/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu046/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Deepanshu046/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Deepanshu046/LeetCode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
