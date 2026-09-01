@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Deepanshu046/LeetCode/tree/master/0058-length-of-last-word) |
+| [0551-student-attendance-record-i](https://github.com/Deepanshu046/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [1598-crawler-log-folder](https://github.com/Deepanshu046/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Stack
 |  |
